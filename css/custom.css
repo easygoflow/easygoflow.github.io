@@ -1,0 +1,70 @@
+/* Polyglossia color overrides — loaded after hux-blog.min.css */
+
+body {
+    background-color: #F5EFE0;
+    color: #2E2116;
+}
+
+/* The theme's single signature accent (#0085a1) appears on:
+   link hovers, buttons, pager, tag cloud, text selection, listing separators.
+   Swapping this one value does most of the visual work. */
+a:hover, a:focus,
+.post-container a:hover, .post-container a:focus,
+.post-preview > .post-meta > a:hover, .post-preview > .post-meta > a:focus,
+.post-content-preview:hover,
+.btn-default:hover, .btn-default:focus,
+.pager li > a:hover, .pager li > a:focus,
+.navbar-custom.is-fixed .navbar-brand:hover, .navbar-custom.is-fixed .navbar-brand:focus,
+.navbar-custom.is-fixed .nav li a:hover, .navbar-custom.is-fixed .nav li a:focus,
+footer .copyright a:hover, footer .copyright a:focus,
+.listing-seperator {
+    color: #E08A1E;
+}
+.btn-default:hover, .btn-default:focus,
+.pager li > a:hover, .pager li > a:focus {
+    background-color: #E08A1E;
+    border-color: #E08A1E;
+}
+#tag_cloud a:hover, #tag_cloud .tag:hover,
+#tag_cloud a:active, #tag_cloud .tag:active {
+    background-color: #E08A1E !important;
+}
+.sidebar-container a:hover, .sidebar-container a:active {
+    color: #E08A1E !important;
+}
+.sidebar-container .tags a:hover, .sidebar-container .tags a:active {
+    border-color: #E08A1E;
+}
+::selection { background: #E08A1E; }
+::-moz-selection { background: #E08A1E; }
+
+/* Base link and body text colors */
+a { color: #7A2333; }
+.post-container a { color: #7A2333; }
+.post-preview > .post-meta > a { color: #2E2116; }
+footer .copyright a { color: #7A2333; }
+body { color: #2E2116; }
+
+/* Fallback background behind header images, while they load */
+.intro-header { background-color: #2B4570; }
+
+/* Navbar text once scrolled (background is already handled by the theme) */
+.navbar-custom.is-fixed .navbar-brand,
+.navbar-custom.is-fixed .nav li a {
+    color: #2E2116;
+}
+
+.intro-header {
+    position: relative;
+}
+.intro-header::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(rgba(46,33,22,0.15), rgba(46,33,22,0.55));
+    z-index: 1;
+}
+.intro-header .container {
+    position: relative;
+    z-index: 2;
+}
