@@ -24,15 +24,19 @@ anchorjs: true                          # if you want to customize anchor. check
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
-plugins: [jekyll-paginate]
+plugins: [jekyll-paginate, jekyll-sitemap]
 
 # Markdown settings
 markdown: kramdown
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
-# Disqus settings
-#disqus_username: _your_disqus_short_name_
+# Giscus settings
+giscus_repo: "easygoflow/easygoflow.github.io"
+giscus_repo_id: "R_kgDOTjJuNw"          # paste from giscus.app
+giscus_category: "Comments"
+giscus_category_id: "DIC_kwDOTjJuN84DCACM"      # paste from giscus.app
+giscus_mapping: "pathname"
 
 # Analytics settings
 # Add your own Google Analytics ID here if you want tracking, format: UA-xxxxxx-xx or G-XXXXXXX
