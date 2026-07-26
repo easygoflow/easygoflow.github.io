@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: 309069261+easygoflow@users.noreply.github.com
 description: "notes from learning languages the fun way"
 keyword: "Polyglossia, language learning, Hindi, French, Japanese, Bollywood, chanson, anime, ESL"
-url: "https://easygoflow.github.io"              # your host, for absolute URL
+url: "https://polyglossia.blog"             # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 author: RedOne
