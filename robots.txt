@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://easygoflow.github.io/sitemap.xml
