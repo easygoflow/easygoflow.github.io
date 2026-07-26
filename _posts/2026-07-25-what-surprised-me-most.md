@@ -2,8 +2,17 @@
 layout: post
 title: "What Surprised Me Most Learning Three Languages at Once"
 subtitle: "Cross-contamination, confusion, and a few unexpected overlaps"
-author: RedOne
-tags: [meta, hindi, french, japanese]
+date: 2026-07-26 12:00:00 +0000
+author: "RedOne"
+header-img: "img/post-bg-languages.jpg" # Required for Hux Open Graph & Twitter share cards
+catalog: true                           # Enables the floating table of contents in Hux
+description: "Reflections from a year of learning Hindi, French, and Japanese in parallel—navigating grammar cross-contamination, speech rhythms, and ESL teaching habits."
+tags:
+  - Meta
+  - Language Learning
+  - Hindi
+  - French
+  - Japanese
 ---
 
 Learning three languages in parallel wasn't a plan so much as something that happened because I loved three very different things at the same time. A year in, a few things have surprised me enough that I want to write them down.
