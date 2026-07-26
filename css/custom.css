@@ -24,6 +24,7 @@ footer .copyright a:hover, footer .copyright a:focus,
 .pager li > a:hover, .pager li > a:focus {
     background-color: #E08A1E;
     border-color: #E08A1E;
+    color: #F5EFE0;
 }
 #tag_cloud a:hover, #tag_cloud .tag:hover,
 #tag_cloud a:active, #tag_cloud .tag:active {
@@ -84,4 +85,12 @@ body { color: #2E2116; }
 .comment {
     max-width: 700px;
     margin: 0 auto;
+}
+
+.post-preview a {
+    outline: none;
+}
+.post-preview a:focus-visible {
+    outline: 2px solid #7A2333;
+    outline-offset: 4px;
 }
