@@ -87,6 +87,8 @@ body { color: #2E2116; }
     margin: 0 auto;
 }
 
+
+
 .post-preview a {
     outline: none;
 }
@@ -94,3 +96,4 @@ body { color: #2E2116; }
     outline: 2px solid #7A2333;
     outline-offset: 4px;
 }
+
