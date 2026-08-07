@@ -4,7 +4,7 @@ title: "Multiple Languages at Once"
 subtitle: "What juggling three languages has taught me about the polyglot life"
 date: 2026-08-03 12:00:00 +0000
 author: "RedOne"
-header-img: "img/post-bg-multilingual.jpg" # Required for Hux Open Graph & Twitter share cards
+header-img: "img/post-bg-multilingual.webp" # Required for Hux Open Graph & Twitter share cards
 catalog: true                          # Enables the floating table of contents in Hux
 description: "The real advantages and disadvantages of learning several languages at once, and what three years of juggling Japanese, Hindi, and French has actually taught me."
 tags:

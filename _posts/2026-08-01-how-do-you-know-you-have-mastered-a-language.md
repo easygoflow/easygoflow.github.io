@@ -4,7 +4,7 @@ title: "How Do You Know You've Mastered a Language?"
 subtitle: "Functional control is a milestone, not the finish line"
 date: 2026-08-01 12:00:00 +0000
 author: "RedOne"
-header-img: "img/post-bg-mastery.jpg" # Required for Hux Open Graph & Twitter share cards
+header-img: "img/post-bg-mastery.webp" # Required for Hux Open Graph & Twitter share cards
 catalog: true                          # Enables the floating table of contents in Hux
 description: "A breakdown of the difference between functional control of a language and true mastery, and why no course can shortcut the time it takes to get there."
 tags:

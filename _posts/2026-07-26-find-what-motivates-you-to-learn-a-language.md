@@ -4,7 +4,7 @@ title: "Find What Motivates You to Learn a Language"
 subtitle: "Why intrinsic motivation is the one that actually lasts"
 date: 2026-07-26 12:00:00 +0000
 author: "RedOne"
-header-img: "img/post-bg-motivation_.png" # Required for Hux Open Graph & Twitter share cards
+header-img: "img/post-bg-motivation.webp" # Required for Hux Open Graph & Twitter share cards
 catalog: true                            # Enables the floating table of contents in Hux
 description: "A look at the two frameworks behind language-learning motivation—integrative vs. instrumental, intrinsic vs. extrinsic—and why the intrinsic kind is what keeps you going for the long game."
 tags:
