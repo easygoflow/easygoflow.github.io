@@ -97,3 +97,28 @@ body { color: #2E2116; }
     outline-offset: 4px;
 }
 
+
+
+
+/* Icon badges — replaces Font Awesome fa-stack */
+.icon-circle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #404040;
+    color: #fff;
+}
+.icon-circle svg {
+    width: 18px;
+    height: 18px;
+    fill: currentColor;
+}
+.listing-seperator svg {
+    width: 16px;
+    height: 16px;
+    vertical-align: -2px;
+    margin-right: 4px;
+}
