@@ -65,15 +65,15 @@ body { color: #2E2116; }
     background:
         linear-gradient(
             to bottom,
-            rgba(20, 15, 10, 0.65) 0%,
-            rgba(20, 15, 10, 0.35) 20%,
-            rgba(20, 15, 10, 0.55) 55%,
-            rgba(20, 15, 10, 0.8) 100%
+            rgba(20, 15, 10, 0.45) 0%,
+            rgba(20, 15, 10, 0.25) 20%,
+            rgba(20, 15, 10, 0.38) 55%,
+            rgba(20, 15, 10, 0.55) 100%
         ),
         radial-gradient(
             ellipse at center,
-            rgba(20, 15, 10, 0.1) 40%,
-            rgba(20, 15, 10, 0.45) 100%
+            rgba(20, 15, 10, 0.05) 40%,
+            rgba(20, 15, 10, 0.3) 100%
         );
     z-index: 1;
 }
