@@ -47,7 +47,7 @@ giscus_mapping: "pathname"
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Language learning, the fun way — Hindi through Bollywood, French through chanson, Japanese through anime."
+sidebar-about-description: "Notes from learning languages the fun way."
 sidebar-avatar: /img/avatar.png         # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
