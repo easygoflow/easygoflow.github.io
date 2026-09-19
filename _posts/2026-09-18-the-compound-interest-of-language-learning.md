@@ -2,10 +2,14 @@
 layout: post
 title: "The Compound Interest of Language Learning"
 subtitle: "Why no effort you put in is ever wasted"
-date: 2026-09-18
+date: 2026-09-18 12:00:00 +0000
+author: "RedOne"
 header-img: "img/post-bg-compound-interest-language-learning.webp"
 catalog: true
 description: "Every flashcard, every translated word, every line from a song adds up. Here's why no effort is ever wasted when you're learning a new language."
+tags:
+  - Language Learning
+  - Comprehensible Input
 ---
 
 ## Why Everything Feels Like Noise at First
